@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T141000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T134000
-DTSTAMP;VALUE=DATE-TIME:20170305T215428Z
+DTSTAMP;VALUE=DATE-TIME:20170412T084608Z
 UID:77abf3e0-81ef-4c96-b371-7f0ea11155f8@frab.nixos.community
 DESCRIPTION:Eine Einführung in Krita und digitale Zeichenprogramme genere
  ll. Für alle\, die Krita noch nie benutzt haben oder wenig bis gar keine

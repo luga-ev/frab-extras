@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T113000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T104500
-DTSTAMP;VALUE=DATE-TIME:20170305T215521Z
+DTSTAMP;VALUE=DATE-TIME:20170412T084456Z
 UID:afc64fe1-f2ed-455b-8c81-a642172025d5@frab.nixos.community
 DESCRIPTION:Zeitmanagement und "Getting Things Done" im Texteditor? Der V
  ortrag zeigt\, dass dies nicht nur möglich ist\, sondern man sich so ein

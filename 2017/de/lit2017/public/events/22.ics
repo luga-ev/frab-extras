@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T151500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T131500
-DTSTAMP;VALUE=DATE-TIME:20170309T165330Z
+DTSTAMP;VALUE=DATE-TIME:20170412T084509Z
 UID:dcb30e54-c360-4ce0-b5a4-302724e0d541@frab.nixos.community
 DESCRIPTION:Dieser Workshop zum Mitmachen und selber probieren vermittelt
   die wichtigsten Grundlagen um mit dem mächtigen Editor Freundschaft zu 

@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T171500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T151500
-DTSTAMP;VALUE=DATE-TIME:20170306T192932Z
+DTSTAMP;VALUE=DATE-TIME:20170412T084624Z
 UID:96b86696-8ebe-46bf-ba57-03bf8364461e@frab.nixos.community
 DESCRIPTION:Wer aufgrund von Daten eine Entscheidung fällen muss\, greift
   oft zu Tabellenkalkulationsprogrammen\, um vergleichende Berechnungen d

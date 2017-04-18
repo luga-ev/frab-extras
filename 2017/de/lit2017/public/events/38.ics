@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T123000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T114500
-DTSTAMP;VALUE=DATE-TIME:20170305T215627Z
+DTSTAMP;VALUE=DATE-TIME:20170412T084748Z
 UID:40b773f1-365e-40ee-87c0-f828739e3b9a@frab.nixos.community
 DESCRIPTION:Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein
   bisschen Planung viel Arbeit sparen kann. Nicht nur\, dass im letzten J

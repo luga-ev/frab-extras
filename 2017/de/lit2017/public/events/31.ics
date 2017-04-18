@@ -15,7 +15,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T134000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T131500
-DTSTAMP;VALUE=DATE-TIME:20170314T155658Z
+DTSTAMP;VALUE=DATE-TIME:20170411T145950Z
 UID:43d59eb8-6e0d-4e19-b12f-1b7d692a79e6@frab.nixos.community
 DESCRIPTION:Ein Vortrag zu Entstehungsgeschichte\, Funktionsweise\, Mögli
  chkeiten und Gefahren von Tor\; mit einer kurzen Demo von Tails am Ende.

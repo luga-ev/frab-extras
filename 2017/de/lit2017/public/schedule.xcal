@@ -23,7 +23,7 @@ Im Rahmen des Workshops lernt wie ihr eigene Startskripte, sog. Unit-Files, erst
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/schedule.html/events/2.html</url>
-<location>Raum D (Workshop)</location>
+<location>Raum E (Workshop)</location>
 <attendee>Christine Koppelt</attendee>
 </vevent>
 <vevent>
@@ -428,13 +428,13 @@ Zentrale Objektablage wird in unserer Zeit immer wichtiger, die Anzahl der Syste
 <pentabarf:event-id>31</pentabarf:event-id>
 <pentabarf:event-slug>lit2017-31-tor</pentabarf:event-slug>
 <pentabarf:title>Tor</pentabarf:title>
-<pentabarf:subtitle>Licht- &amp; Schatten in der Dunkelheit des Netzes</pentabarf:subtitle>
+<pentabarf:subtitle>Licht- &amp; Schatten im Netz</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20170422T131500</dtstart>
 <dtend>20170422T134000</dtend>
 <duration>002500</duration>
-<summary>Tor- Licht- &amp; Schatten in der Dunkelheit des Netzes</summary>
+<summary>Tor- Licht- &amp; Schatten im Netz</summary>
 <description>Ein Vortrag zu Entstehungsgeschichte, Funktionsweise, Möglichkeiten und Gefahren von Tor; mit einer kurzen Demo von Tails am Ende.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
@@ -500,14 +500,15 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <pentabarf:event-id>35</pentabarf:event-id>
 <pentabarf:event-slug>lit2017-35-lightning_talks</pentabarf:event-slug>
 <pentabarf:title>Lightning Talks</pentabarf:title>
-<pentabarf:subtitle></pentabarf:subtitle>
+<pentabarf:subtitle>5-minütige Vorträge zu verschiedenen Themen</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20170422T104500</dtstart>
 <dtend>20170422T113000</dtend>
 <duration>004500</duration>
-<summary>Lightning Talks- </summary>
-<description></description>
+<summary>Lightning Talks- 5-minütige Vorträge zu verschiedenen Themen</summary>
+<description>6 Lightning Talks stehen bereits fest. Insgesamt haben wir Zeit für 10.
+Falls du auch einen halten möchtest, trag deinen Talk im &lt;a href=&quot;https://etherpad.wikimedia.org/p/lit2017-lightning-talks&quot;&gt;Etherpad&lt;/a&gt; ein.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -533,7 +534,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <category>Lecture</category>
 <url>/schedule.html/events/36.html</url>
 <location>Raum E (Workshop)</location>
-<attendee>Markus Dobmann</attendee>
+<attendee>Markus Dobmann (peerigon)</attendee>
 </vevent>
 <vevent>
 <method>PUBLISH</method>
@@ -603,16 +604,24 @@ Der Vortrag benötigt kein tiefergehendes Vorwissen und setzt auch nicht voraus,
 <method>PUBLISH</method>
 <uid>40@lit2017@pentabarf.org</uid>
 <pentabarf:event-id>40</pentabarf:event-id>
-<pentabarf:event-slug>lit2017-40-wird_nachgereicht</pentabarf:event-slug>
-<pentabarf:title>(wird nachgereicht)</pentabarf:title>
+<pentabarf:event-slug>lit2017-40-embedded_linux_fur_hacker</pentabarf:event-slug>
+<pentabarf:title>Embedded Linux für Hacker</pentabarf:title>
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
 <dtstart>20170422T151500</dtstart>
 <dtend>20170422T160000</dtend>
 <duration>004500</duration>
-<summary>(wird nachgereicht)- </summary>
-<description></description>
+<summary>Embedded Linux für Hacker- </summary>
+<description>Linux ist mittlerweile in einer unglaublichen Vielzahl von Geräten zu
+finden. Von Waschmaschinen über &quot;smarte&quot; Kühlschränke bis hin zu
+sprechenden Puppen. Unabhängig von der Sinnhaftigkeit solcher Produkte ist es bemerkenswert, welche Verbreitung Linux auf eingebetteten Systemen gefunden hat.
+
+Bei Experimenten mit einem Raspberry entdeckt man schnell viele
+Unterschiede zu einem Desktop-Linuxsystem. In diesem Vortrag werden tiefere Einblicke in Embedded Linux auf ARM-Plattformen gegeben. Insbesondere Rolle und Funktionsweise des devicetree werden erläutert, aber auch Kernel-Konfiguration und das Aufsetzen eines Debian-basierten Userlands werden gezeigt.
+
+Auch die Analyse von eigentlich geschlossenen eingebetteten Systemen wird im Vortrag anhand von Beispielen dargestellt. Mit einigen Hardware-Hacking-Tricks lässt sich so ein Linux-System näher
+untersuchen und auch anpassen.</description>
 <class>PUBLIC</class>
 <status>CONFIRMED</status>
 <category>Lecture</category>
@@ -690,7 +699,7 @@ Unsere Cryptoparty soll einen Überblick darüber geben
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/schedule.html/events/43.html</url>
-<location>Raum E (Workshop)</location>
+<location>Raum D (Workshop)</location>
 <attendee>Michael Weiner, CCC München</attendee>
 </vevent>
 </vcalendar>

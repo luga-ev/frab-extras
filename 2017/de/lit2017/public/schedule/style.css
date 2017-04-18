@@ -67,11 +67,11 @@
 
 
 .event.track-digitale-gesellschaft {
-  background-color: #fcd600;
-  border-color: #fcd600;
+  background-color: #c1afa1;
+  border-color: #c1afa1;
 }
 .event.track-digitale-gesellschaft div.event-header {
-  background-color: #fcd600;
+  background-color: #c1afa1;
 }
 
 .event.track-digitale-gesellschaft div.event-header a {
@@ -79,47 +79,31 @@
 }
 
 #colorkeys .track-digitale-gesellschaft {
-  background-color: #fcd600;
+  background-color: #c1afa1;
 }
 
-.event.track-effizientes-arbeiten-mit-linux {
-  background-color: #fefd7f;
-  border-color: #fefd7f;
+.event.track-linux-interna-und-anwendungen {
+  background-color: #fac60e;
+  border-color: #fac60e;
 }
-.event.track-effizientes-arbeiten-mit-linux div.event-header {
-  background-color: #fefd7f;
+.event.track-linux-interna-und-anwendungen div.event-header {
+  background-color: #fac60e;
 }
 
-.event.track-effizientes-arbeiten-mit-linux div.event-header a {
+.event.track-linux-interna-und-anwendungen div.event-header a {
   color: #000;
 }
 
-#colorkeys .track-effizientes-arbeiten-mit-linux {
-  background-color: #fefd7f;
-}
-
-.event.track-linux-interna-und-devops {
-  background-color: #fc937e;
-  border-color: #fc937e;
-}
-.event.track-linux-interna-und-devops div.event-header {
-  background-color: #fc937e;
-}
-
-.event.track-linux-interna-und-devops div.event-header a {
-  color: #000;
-}
-
-#colorkeys .track-linux-interna-und-devops {
-  background-color: #fc937e;
+#colorkeys .track-linux-interna-und-anwendungen {
+  background-color: #fac60e;
 }
 
 .event.track-privatsphare-sicherheit {
-  background-color: #7db3fa;
-  border-color: #7db3fa;
+  background-color: #f38526;
+  border-color: #f38526;
 }
 .event.track-privatsphare-sicherheit div.event-header {
-  background-color: #7db3fa;
+  background-color: #f38526;
 }
 
 .event.track-privatsphare-sicherheit div.event-header a {
@@ -127,15 +111,15 @@
 }
 
 #colorkeys .track-privatsphare-sicherheit {
-  background-color: #7db3fa;
+  background-color: #f38526;
 }
 
 .event.track-programm-fur-kinder-und-jugendliche {
-  background-color: #c263eb;
-  border-color: #c263eb;
+  background-color: #87aade;
+  border-color: #87aade;
 }
 .event.track-programm-fur-kinder-und-jugendliche div.event-header {
-  background-color: #c263eb;
+  background-color: #87aade;
 }
 
 .event.track-programm-fur-kinder-und-jugendliche div.event-header a {
@@ -143,15 +127,15 @@
 }
 
 #colorkeys .track-programm-fur-kinder-und-jugendliche {
-  background-color: #c263eb;
+  background-color: #87aade;
 }
 
 .event.track-programmieren-software-entwickeln {
-  background-color: #fc7ed6;
-  border-color: #fc7ed6;
+  background-color: #9bc822;
+  border-color: #9bc822;
 }
 .event.track-programmieren-software-entwickeln div.event-header {
-  background-color: #fc7ed6;
+  background-color: #9bc822;
 }
 
 .event.track-programmieren-software-entwickeln div.event-header a {
@@ -159,23 +143,7 @@
 }
 
 #colorkeys .track-programmieren-software-entwickeln {
-  background-color: #fc7ed6;
-}
-
-.event.track-rahmenvortrage {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-.event.track-rahmenvortrage div.event-header {
-  background-color: #ffffff;
-}
-
-.event.track-rahmenvortrage div.event-header a {
-  color: #000;
-}
-
-#colorkeys .track-rahmenvortrage {
-  background-color: #ffffff;
+  background-color: #9bc822;
 }
 
 #colorkeys {

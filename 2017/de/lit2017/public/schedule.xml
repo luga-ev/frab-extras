@@ -23,7 +23,7 @@
 </recording>
 <title>Keynote</title>
 <subtitle></subtitle>
-<track>Rahmenvorträge</track>
+<track>Digitale Gesellschaft</track>
 <type></type>
 <language></language>
 <abstract></abstract>
@@ -49,7 +49,7 @@
 </recording>
 <title>Orgmode - your life in plain text</title>
 <subtitle>Selbstorganisation unter Linux</subtitle>
-<track>effizientes Arbeiten mit Linux</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Zeitmanagement und &quot;Getting Things Done&quot; im Texteditor? Der Vortrag zeigt, dass dies nicht nur möglich ist, sondern man sich so ein höchst effizientes System bauen kann welches einem den täglichen Irrsinn im Job und auch in der Freizeit zu überblicken hilft. </abstract>
@@ -88,7 +88,7 @@
 </recording>
 <title>Schicke Briefe und andere Texte (Teil 2)</title>
 <subtitle></subtitle>
-<track>effizientes Arbeiten mit Linux</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein bisschen Planung viel Arbeit sparen kann. Nicht nur, dass im letzten Jahr vom Vortragsskript noch so viele interessante Punkte übrig geblieben sind. Kürzlich erschien auch noch ein kostenloses Buch über Gestaltungstipps mit LibreOffice. Daraus stellt Dieter Thalmayr ein Potpourri aus Arbeiten mit Formatvorlagen, Textbausteinen, Grafiken und vielem mehr zusammen. Texte sehen dann nicht nur hübsch aus, sondern waren auch ausgesprochen einfach erstellt.
@@ -202,7 +202,7 @@ Die gezeigten Methoden sind übrigens nicht mit den bekannten kommerziellen Betr
 </recording>
 <title>The Simpsons meet IT</title>
 <subtitle>Was wir von den Simpsons und Futurama über Mathematik, Kryptografie, IT und Quantenphysik lernen können</subtitle>
-<track>Rahmenvorträge</track>
+<track>Digitale Gesellschaft</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Der Vortrag stellt eine humoristische Verbindung zwischen den Simpsons und der mathematischen Realität dar. 
@@ -233,16 +233,34 @@ Wer glaubt, die Simpsons seien nur eine Zeichentrickserie für Kinder und Jugend
 <optout>false</optout>
 </recording>
 <title>Lightning Talks</title>
-<subtitle></subtitle>
-<track>Rahmenvorträge</track>
+<subtitle>5-minütige Vorträge zu verschiedenen Themen</subtitle>
+<track>Digitale Gesellschaft</track>
 <type>lecture</type>
 <language>de</language>
-<abstract></abstract>
-<description>Wir verwalten die Liste der Lightning Talks &lt;a href=&quot;https://etherpad.wikimedia.org/p/lit2017-lightning-talks&quot;&gt;in einem Etherpad&lt;/a&gt;. Trag dich unten ein, wenn du noch einen Lightning Talk halten möchtest!</description>
+<abstract>6 Lightning Talks stehen bereits fest. Insgesamt haben wir Zeit für 10.
+Falls du auch einen halten möchtest, trag deinen Talk im &lt;a href=&quot;https://etherpad.wikimedia.org/p/lit2017-lightning-talks&quot;&gt;Etherpad&lt;/a&gt; ein.</abstract>
+<description>&lt;dl&gt;
+&lt;dt&gt;Severin Wünsch: Freifunk&lt;/dt&gt;
+&lt;dt&gt;Oliver Rath: Open-Source Bierbrauen&lt;/dt&gt;
+&lt;dd&gt;Freie Software hilft in vielen Bereichen, so auch beim Bierbrauen.&lt;/dd&gt;
+&lt;dt&gt;Xaver Hörl: hfish. Geil!&lt;/dt&gt;
+&lt;dt&gt;Henning Schlottmann: WikiMUC&lt;/dt&gt;
+&lt;dd&gt;Seit Herbst 2016 betreibt WikiMedia Deutschland e.V. (Wikipedia) einen Veranstaltungsraum am Sendlinger Tor in München mit Platz für rund 25 Leute. Großer Besprechungstisch, übliche Technik, Kaffeemaschine und Kühlschrank. Nutzt ihn!&lt;/dd&gt;
+&lt;dt&gt;Björn Schließle: Freie Software?&lt;/dt&gt;
+&lt;dd&gt;Die gängigsten Missverständnisse aufgeklärt &lt;/dd&gt;
+&lt;dt&gt;Bernadette Längle: p≡p ≡ pretty easy privacy&lt;/dt&gt;
+&lt;dd&gt;Einfache Verschlüsselung für alle, E-Mails und Nachrichten werden standardmaessig &quot;by default&quot; verschlüsselt und anonymisiert, ohne dass der Nutzer grossen Aufwand damit hat, sondern seine Standardanwendungen verwendet. End-To-End, Peer-to-Peer und ohne zentrale Infrastruktur, Open Source mit Code Reviews und Unterstützung von üblichen Cryptostandards (S/MIME, PGP, OTR) - und am Ende irgendwann noch zur Anonymisierung noch durch GNUnet geschickt.&lt;br/&gt;Wie das gehen soll? Wir versuchens! Kleine Vorstellung des Projektes, dem Stand der Software und der aktuellen Implementierung der Ideen und Standards, wie z.B. Trustwords als nutzbare Erweiterung des Konzeptes des Fingerprints, das leidige Problem der Keyserver bei GPG oder gar der Verschlüsslung über verschiedene Geräte.&lt;/dd&gt;
+&lt;/dl&gt;</description>
 <logo></logo>
 <persons>
 </persons>
 <links>
+<link href='https://pep.foundation/docs/pEp-whitepaper.pdf'>pretty easy privacy: whitepaper</link>
+<link href='https://letsencrypt.pep.foundation/dev/repos'>pretty easy privacy: sourcen / repositories</link>
+<link href='https://pep.foundation/'>pretty easy privacy: pep.foundation</link>
+<link href='wikimuc.org'>WikiMUC</link>
+<link href='https://fsfe.org'>Freie Software: Free Software Foundation Europe</link>
+<link href='https://www.luga.de/Aktionen/LIT-2017/Staende/#bierbrauen'>Bierbrauen</link>
 </links>
 <attachments>
 </attachments>
@@ -289,7 +307,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <optout>false</optout>
 </recording>
 <title>Tor</title>
-<subtitle>Licht- &amp; Schatten in der Dunkelheit des Netzes</subtitle>
+<subtitle>Licht- &amp; Schatten im Netz</subtitle>
 <track>Privatsphäre &amp; Sicherheit</track>
 <type>lecture</type>
 <language>de</language>
@@ -316,7 +334,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 </recording>
 <title>Einführung in Krita</title>
 <subtitle>Für Anfänger und alle die sich für Krita interessieren</subtitle>
-<track>effizientes Arbeiten mit Linux</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Eine Einführung in Krita und digitale Zeichenprogramme generell. Für alle, die Krita noch nie benutzt haben oder wenig bis gar keine Erfahrung mit Zeichenprogrammen haben.</abstract>
@@ -436,7 +454,7 @@ Der Vortrag setzt keinerlei technisches oder mathematisches Vorwissen voraus.
 </recording>
 <title>fli4l</title>
 <subtitle>Der flexible internet router for linux.</subtitle>
-<track>Linux Interna und DevOps</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>fli4l ist eine Linux-basierte ISDN-, DSL- und Ethernet-Router-Distribution, die in der Grundausstattung ab einer 586er CPU (mit MMX-Erweiterung) betrieben werden kann. </abstract>
@@ -497,7 +515,7 @@ Dieser Vortrag gibt einen Überblick über die unschönen Seiten von C, zeigt wi
 </recording>
 <title>Effektives Monitoring von Linux und Services</title>
 <subtitle></subtitle>
-<track>Linux Interna und DevOps</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>In zunehmend komplex werdenden Infrastrukturen wird effektives Monitoring immer wichtiger. Aber auch für kleine Setups ist Monitoring bereits essentiell. Dabei müssen Punkte wie spezifische Grenzwerte, Performance sowie Benachrichtigungen beachtet werden. </abstract>
@@ -560,7 +578,7 @@ Thema des Talks:
 </recording>
 <title>Capabilities</title>
 <subtitle>Das vergessene Linux-Security-Feature</subtitle>
-<track>Linux Interna und DevOps</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
 <abstract>Mit den Capabilities bietet der Linux-Kernel schon seit längerem die Möglichkeit Rechte feingranularer zu vergeben, als nur Root- und Nicht-Root-Rechte. Bisher werden sie noch selten genutzt, dabei könnten sie die Sicherheit von Linux-Clients und -Servern erhöhen und gleichzeitig stellt das nicht-wissen über ihre Existenz eine Gefahr für die Sicherheit dar.</abstract>
@@ -582,17 +600,25 @@ Thema des Talks:
 <start>15:15</start>
 <duration>00:45</duration>
 <room>Raum C</room>
-<slug>lit2017-40-wird_nachgereicht</slug>
+<slug>lit2017-40-embedded_linux_fur_hacker</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>(wird nachgereicht)</title>
+<title>Embedded Linux für Hacker</title>
 <subtitle></subtitle>
-<track>Linux Interna und DevOps</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
-<abstract></abstract>
+<abstract>Linux ist mittlerweile in einer unglaublichen Vielzahl von Geräten zu
+finden. Von Waschmaschinen über &quot;smarte&quot; Kühlschränke bis hin zu
+sprechenden Puppen. Unabhängig von der Sinnhaftigkeit solcher Produkte ist es bemerkenswert, welche Verbreitung Linux auf eingebetteten Systemen gefunden hat.
+
+Bei Experimenten mit einem Raspberry entdeckt man schnell viele
+Unterschiede zu einem Desktop-Linuxsystem. In diesem Vortrag werden tiefere Einblicke in Embedded Linux auf ARM-Plattformen gegeben. Insbesondere Rolle und Funktionsweise des devicetree werden erläutert, aber auch Kernel-Konfiguration und das Aufsetzen eines Debian-basierten Userlands werden gezeigt.
+
+Auch die Analyse von eigentlich geschlossenen eingebetteten Systemen wird im Vortrag anhand von Beispielen dargestellt. Mit einigen Hardware-Hacking-Tricks lässt sich so ein Linux-System näher
+untersuchen und auch anpassen.</abstract>
 <description></description>
 <logo></logo>
 <persons>
@@ -718,7 +744,7 @@ Außerdem werden Fragen beantwortet, die nach dem Vortrag garantiert alle noch n
 </recording>
 <title>Vim für Einsteiger</title>
 <subtitle>Oder: Wie man mit dem Editor für die Konsole Freundschaft schließt</subtitle>
-<track>effizientes Arbeiten mit Linux</track>
+<track>Linux‐Interna und Anwendungen</track>
 <type>workshop</type>
 <language>de</language>
 <abstract>Dieser Workshop zum Mitmachen und selber probieren vermittelt die wichtigsten Grundlagen um mit dem mächtigen Editor Freundschaft zu schließen.</abstract>
@@ -745,95 +771,11 @@ Dieser Workshop fängt von vorne an und vermittelt die wichtigsten Kommandos, di
 <attachments>
 </attachments>
 </event>
-<event guid='7013ee1e-e582-4581-8ccd-e8b708756d14' id='2'>
-<date>2017-04-22T15:15:00+02:00</date>
-<start>15:15</start>
-<duration>02:00</duration>
-<room>Raum D (Workshop)</room>
-<slug>lit2017-2-servicemanagement_mit_systemd</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>Servicemanagement mit systemd</title>
-<subtitle></subtitle>
-<track>Linux Interna und DevOps</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>systemd ist ein System- und Service Management Framework für Linux, das unter anderem von Ubuntu, Debian, Arch, Fedora und Red Hat verwendet wird. Es wird beim Booten als erster Prozess gestartet und sorgt dafür, dass alle weiteren Prozesse wie Systemdienste, Systemkomponenten und dauerhaft laufende Anwendungen automatisiert gestartet, überwacht und lauffähig gehalten werden. 
-Im Rahmen des Workshops lernt wie ihr eigene Startskripte, sog. Unit-Files, erstellen könnt und wie man damit Abhängigkeiten zu anderen Diensten, zeitgesteuerte Ausführung und Bedingungen für automatische Neustarts definieren kann. Außerdem schauen wir uns an, wie man die Logmeldungen der gestarteten Dienste mit Bordmitteln effizient auswerten kann.</abstract>
-<description></description>
-<logo></logo>
-<persons>
-<person id='3'>Christine Koppelt</person>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name='Raum E (Workshop)'>
-<event guid='0bfa18c6-d0ef-4096-bd71-52b2462922c4' id='36'>
-<date>2017-04-22T10:45:00+02:00</date>
-<start>10:45</start>
-<duration>02:00</duration>
-<room>Raum E (Workshop)</room>
-<slug>lit2017-36-nodeschool</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>NodeSchool</title>
-<subtitle>Workshops that teach web software skills</subtitle>
-<track>Programmieren &amp; Software entwickeln</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>Du wolltest schon immer mal programmieren? Oder willst endlich mal Node.js ausprobieren? Nimm teil und lerne Programmieren mit Node.js ganz einfach - versprochen! Es hilft, wenn du schon mal etwas mit JavaScript gemacht hast - wenn nicht, komm trotzdem! Wir helfen gern. </abstract>
-<description></description>
-<logo></logo>
-<persons>
-<person id='50'>Markus Dobmann</person>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid='5293709d-301d-45e9-9945-d0da74438cda' id='16'>
-<date>2017-04-22T13:15:00+02:00</date>
-<start>13:15</start>
-<duration>02:00</duration>
-<room>Raum E (Workshop)</room>
-<slug>lit2017-16-openldap_workshop</slug>
-<recording>
-<license></license>
-<optout>false</optout>
-</recording>
-<title>OpenLDAP Workshop</title>
-<subtitle>Grundlagen der Nutzung von OpenLDAP</subtitle>
-<track>Linux Interna und DevOps</track>
-<type>workshop</type>
-<language>de</language>
-<abstract>&lt;H1&gt;OpenLDAP im Umfeld&lt;/H1&gt;
-Zentrale Objektablage wird in unserer Zeit immer wichtiger, die Anzahl der Systeme steigt, so dass zentrale User/Gruppenverwaltung in einem Verzeichnisdienst selbst bei kleineren/mittelgroßen Umgebungen sinnvoll wird. Hier wird der Einstieg und abhängig vom Publikum auch fortgeschrittener Aufbau und  Integration des OpenLDAP gezeigt.</abstract>
-<description>Der Workshop dient als Einstieg in die Verzeichnisdienste. Es wird die Grundstruktur und Grundbefehle zum Aufbau und Nutzung gezeigt, dabei auch die moderne Online Konfiguration genutzt.&lt;br&gt; Im Anschluss wird die Anbindung von Linuxsystemen in versch. Varianten (sssd / nslcd / nss-ldap) für System User/Gruppen und versch.Applikationen gezeigt.
-&lt;br&gt; Zur Ausfallsicherheit und Skalierung wird eine Master/Slave Replikation aufgebaut, sowie zur Unterstützung und Lösung von komplexen Problemen  kommt es auch zum Einsatz von Overlays, in die ein Einstieg gezeigt wird (memberof, refint, dynlist, auditlog, accesslog, ...).&lt;br&gt; Falls noch Zeit bleibt kann noch auf offene Fragen eingegangen werden. &lt;br&gt;Notebooks mit Virtualisierung sind für die Übungen empfehlenswert. Betriebssysteme Debian und Centos werden zum Kopieren als kvm Images mitgebracht.
-</description>
-<logo></logo>
-<persons>
-<person id='26'>Michael Wandel, B1-Systems</person>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
 <event guid='d3ff7d90-9591-41c8-a793-10785996ca8b' id='43'>
 <date>2017-04-22T15:15:00+02:00</date>
 <start>15:15</start>
 <duration>02:00</duration>
-<room>Raum E (Workshop)</room>
+<room>Raum D (Workshop)</room>
 <slug>lit2017-43-cryptoparty</slug>
 <recording>
 <license></license>
@@ -890,6 +832,90 @@ Die anwesenden Helfer decken ein großes Themenspektrum ab – ihr könnt uns al
 <logo></logo>
 <persons>
 <person id='49'>Michael Weiner, CCC München</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Raum E (Workshop)'>
+<event guid='0bfa18c6-d0ef-4096-bd71-52b2462922c4' id='36'>
+<date>2017-04-22T10:45:00+02:00</date>
+<start>10:45</start>
+<duration>02:00</duration>
+<room>Raum E (Workshop)</room>
+<slug>lit2017-36-nodeschool</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>NodeSchool</title>
+<subtitle>Workshops that teach web software skills</subtitle>
+<track>Programmieren &amp; Software entwickeln</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>Du wolltest schon immer mal programmieren? Oder willst endlich mal Node.js ausprobieren? Nimm teil und lerne Programmieren mit Node.js ganz einfach - versprochen! Es hilft, wenn du schon mal etwas mit JavaScript gemacht hast - wenn nicht, komm trotzdem! Wir helfen gern. </abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='50'>Markus Dobmann (peerigon)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='5293709d-301d-45e9-9945-d0da74438cda' id='16'>
+<date>2017-04-22T13:15:00+02:00</date>
+<start>13:15</start>
+<duration>02:00</duration>
+<room>Raum E (Workshop)</room>
+<slug>lit2017-16-openldap_workshop</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>OpenLDAP Workshop</title>
+<subtitle>Grundlagen der Nutzung von OpenLDAP</subtitle>
+<track>Linux‐Interna und Anwendungen</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>&lt;H1&gt;OpenLDAP im Umfeld&lt;/H1&gt;
+Zentrale Objektablage wird in unserer Zeit immer wichtiger, die Anzahl der Systeme steigt, so dass zentrale User/Gruppenverwaltung in einem Verzeichnisdienst selbst bei kleineren/mittelgroßen Umgebungen sinnvoll wird. Hier wird der Einstieg und abhängig vom Publikum auch fortgeschrittener Aufbau und  Integration des OpenLDAP gezeigt.</abstract>
+<description>Der Workshop dient als Einstieg in die Verzeichnisdienste. Es wird die Grundstruktur und Grundbefehle zum Aufbau und Nutzung gezeigt, dabei auch die moderne Online Konfiguration genutzt.&lt;br&gt; Im Anschluss wird die Anbindung von Linuxsystemen in versch. Varianten (sssd / nslcd / nss-ldap) für System User/Gruppen und versch.Applikationen gezeigt.
+&lt;br&gt; Zur Ausfallsicherheit und Skalierung wird eine Master/Slave Replikation aufgebaut, sowie zur Unterstützung und Lösung von komplexen Problemen  kommt es auch zum Einsatz von Overlays, in die ein Einstieg gezeigt wird (memberof, refint, dynlist, auditlog, accesslog, ...).&lt;br&gt; Falls noch Zeit bleibt kann noch auf offene Fragen eingegangen werden. &lt;br&gt;Notebooks mit Virtualisierung sind für die Übungen empfehlenswert. Betriebssysteme Debian und Centos werden zum Kopieren als kvm Images mitgebracht.
+</description>
+<logo></logo>
+<persons>
+<person id='26'>Michael Wandel, B1-Systems</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='7013ee1e-e582-4581-8ccd-e8b708756d14' id='2'>
+<date>2017-04-22T15:15:00+02:00</date>
+<start>15:15</start>
+<duration>02:00</duration>
+<room>Raum E (Workshop)</room>
+<slug>lit2017-2-servicemanagement_mit_systemd</slug>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Servicemanagement mit systemd</title>
+<subtitle></subtitle>
+<track>Linux‐Interna und Anwendungen</track>
+<type>workshop</type>
+<language>de</language>
+<abstract>systemd ist ein System- und Service Management Framework für Linux, das unter anderem von Ubuntu, Debian, Arch, Fedora und Red Hat verwendet wird. Es wird beim Booten als erster Prozess gestartet und sorgt dafür, dass alle weiteren Prozesse wie Systemdienste, Systemkomponenten und dauerhaft laufende Anwendungen automatisiert gestartet, überwacht und lauffähig gehalten werden. 
+Im Rahmen des Workshops lernt wie ihr eigene Startskripte, sog. Unit-Files, erstellen könnt und wie man damit Abhängigkeiten zu anderen Diensten, zeitgesteuerte Ausführung und Bedingungen für automatische Neustarts definieren kann. Außerdem schauen wir uns an, wie man die Logmeldungen der gestarteten Dienste mit Bordmitteln effizient auswerten kann.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='3'>Christine Koppelt</person>
 </persons>
 <links>
 </links>
@@ -970,7 +996,7 @@ Wenn du mindestens in die vierte Klasse gehst, bist du herzlich zu diesem Worksh
 </recording>
 <title>Datenbasierte Entscheidungsfindung mit Python</title>
 <subtitle></subtitle>
-<track>effizientes Arbeiten mit Linux</track>
+<track>Programmieren &amp; Software entwickeln</track>
 <type>workshop</type>
 <language></language>
 <abstract>Wer aufgrund von Daten eine Entscheidung fällen muss, greift oft zu Tabellenkalkulationsprogrammen, um vergleichende Berechnungen durchzuführen oder die Daten graphisch aufzubereiten. Das ist bequem, aber oft ist es später sowohl für andere als auch sich selbst nur noch schwer nachzuvollziehen, welche Kriterien in die Entscheidung eingeflossen sind. Daher möchte ich eine Alternative zur Tabellenkalkulation vorstellen: Python mit Jupyter Notebook, Numpy und Matplotlib. In dieser Kombination lassen sich Dokumente schreiben, die Dokumentation zur Entscheidungsfindung, Skripte zur Datenanalyse und graphische Aufbereitung vereinen.

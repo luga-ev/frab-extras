@@ -15,11 +15,23 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T160000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T151500
-DTSTAMP;VALUE=DATE-TIME:20170305T212504Z
+DTSTAMP;VALUE=DATE-TIME:20170413T104856Z
 UID:9ac33360-4094-46f1-ae00-438474b365af@frab.nixos.community
-DESCRIPTION:
+DESCRIPTION:Linux ist mittlerweile in einer unglaublichen Vielzahl von Ge
+ räten zu\nfinden. Von Waschmaschinen über "smarte" Kühlschränke bis hin 
+ zu\nsprechenden Puppen. Unabhängig von der Sinnhaftigkeit solcher Produk
+ te ist es bemerkenswert\, welche Verbreitung Linux auf eingebetteten Sys
+ temen gefunden hat.\n\nBei Experimenten mit einem Raspberry entdeckt man
+  schnell viele\nUnterschiede zu einem Desktop-Linuxsystem. In diesem Vor
+ trag werden tiefere Einblicke in Embedded Linux auf ARM-Plattformen gege
+ ben. Insbesondere Rolle und Funktionsweise des devicetree werden erläute
+ rt\, aber auch Kernel-Konfiguration und das Aufsetzen eines Debian-basie
+ rten Userlands werden gezeigt.\n\nAuch die Analyse von eigentlich geschl
+ ossenen eingebetteten Systemen wird im Vortrag anhand von Beispielen dar
+ gestellt. Mit einigen Hardware-Hacking-Tricks lässt sich so ein Linux-Sy
+ stem näher\nuntersuchen und auch anpassen.
 URL:/schedule.html/events/40.html
-SUMMARY:(wird nachgereicht)
+SUMMARY:Embedded Linux für Hacker
 ORGANIZER:lit2017
 LOCATION:lit2017 - Raum C
 END:VEVENT
