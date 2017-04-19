@@ -326,8 +326,8 @@ Zentrale Objektablage wird in unserer Zeit immer wichtiger, die Anzahl der Syste
 <pentabarf:subtitle>Der flexible internet router for linux.</pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20170422T161500</dtstart>
-<dtend>20170422T170000</dtend>
+<dtstart>20170422T114500</dtstart>
+<dtend>20170422T123000</dtend>
 <duration>004500</duration>
 <summary>fli4l- Der flexible internet router for linux.</summary>
 <description>fli4l ist eine Linux-basierte ISDN-, DSL- und Ethernet-Router-Distribution, die in der Grundausstattung ab einer 586er CPU (mit MMX-Erweiterung) betrieben werden kann. </description>
@@ -335,7 +335,7 @@ Zentrale Objektablage wird in unserer Zeit immer wichtiger, die Anzahl der Syste
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/schedule.html/events/23.html</url>
-<location>Raum B</location>
+<location>Raum A</location>
 <attendee>Stefan Krister</attendee>
 </vevent>
 <vevent>
@@ -566,8 +566,8 @@ Falls du auch einen halten möchtest, trag deinen Talk im &lt;a href=&quot;https
 <pentabarf:subtitle></pentabarf:subtitle>
 <pentabarf:language>German</pentabarf:language>
 <pentabarf:language-code>de</pentabarf:language-code>
-<dtstart>20170422T114500</dtstart>
-<dtend>20170422T123000</dtend>
+<dtstart>20170422T161500</dtstart>
+<dtend>20170422T170000</dtend>
 <duration>004500</duration>
 <summary>Schicke Briefe und andere Texte (Teil 2)- </summary>
 <description>Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein bisschen Planung viel Arbeit sparen kann. Nicht nur, dass im letzten Jahr vom Vortragsskript noch so viele interessante Punkte übrig geblieben sind. Kürzlich erschien auch noch ein kostenloses Buch über Gestaltungstipps mit LibreOffice. Daraus stellt Dieter Thalmayr ein Potpourri aus Arbeiten mit Formatvorlagen, Textbausteinen, Grafiken und vielem mehr zusammen. Texte sehen dann nicht nur hübsch aus, sondern waren auch ausgesprochen einfach erstellt.
@@ -576,7 +576,7 @@ Der Vortrag benötigt kein tiefergehendes Vorwissen und setzt auch nicht voraus,
 <status>CONFIRMED</status>
 <category>Lecture</category>
 <url>/schedule.html/events/38.html</url>
-<location>Raum A</location>
+<location>Raum B</location>
 <attendee>Dieter Thalmayr</attendee>
 </vevent>
 <vevent>

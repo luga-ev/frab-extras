@@ -193,16 +193,16 @@ SUMMARY:Embedded Linux für Hacker - Benedikt „Hunz“ Heinz
 LOCATION:Raum C
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T170000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T161500
-DTSTAMP;VALUE=DATE-TIME:20170305T212116Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T123000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T114500
+DTSTAMP;VALUE=DATE-TIME:20170419T070239Z
 UID:5f30c00c-7492-4217-ba6b-4a2839992e95@frab.nixos.community
 DESCRIPTION:fli4l ist eine Linux-basierte ISDN-\, DSL- und Ethernet-Route
  r-Distribution\, die in der Grundausstattung ab einer 586er CPU (mit MMX
  -Erweiterung) betrieben werden kann. 
 URL:/schedule.html/events/23.html
 SUMMARY:fli4l - Stefan Krister
-LOCATION:Raum B
+LOCATION:Raum A
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T140000
@@ -341,9 +341,9 @@ SUMMARY:Programmier-Workshop für SchülerInnen - Matheschülerzirkel Augsbu
 LOCATION:Raum F (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T123000
-DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T114500
-DTSTAMP;VALUE=DATE-TIME:20170412T084748Z
+DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T170000
+DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T161500
+DTSTAMP;VALUE=DATE-TIME:20170419T070250Z
 UID:40b773f1-365e-40ee-87c0-f828739e3b9a@frab.nixos.community
 DESCRIPTION:Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein
   bisschen Planung viel Arbeit sparen kann. Nicht nur\, dass im letzten J
@@ -357,7 +357,7 @@ DESCRIPTION:Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein
   besucht hat.
 URL:/schedule.html/events/38.html
 SUMMARY:Schicke Briefe und andere Texte (Teil 2) - Dieter Thalmayr
-LOCATION:Raum A
+LOCATION:Raum B
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T171500

@@ -76,29 +76,31 @@
 <attachments>
 </attachments>
 </event>
-<event guid='40b773f1-365e-40ee-87c0-f828739e3b9a' id='38'>
+<event guid='5f30c00c-7492-4217-ba6b-4a2839992e95' id='23'>
 <date>2017-04-22T11:45:00+02:00</date>
 <start>11:45</start>
 <duration>00:45</duration>
 <room>Raum A</room>
-<slug>lit2017-38-schicke_briefe_und_andere_texte_teil_2</slug>
+<slug>lit2017-23-fli4l</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>Schicke Briefe und andere Texte (Teil 2)</title>
-<subtitle></subtitle>
+<title>fli4l</title>
+<subtitle>Der flexible internet router for linux.</subtitle>
 <track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein bisschen Planung viel Arbeit sparen kann. Nicht nur, dass im letzten Jahr vom Vortragsskript noch so viele interessante Punkte übrig geblieben sind. Kürzlich erschien auch noch ein kostenloses Buch über Gestaltungstipps mit LibreOffice. Daraus stellt Dieter Thalmayr ein Potpourri aus Arbeiten mit Formatvorlagen, Textbausteinen, Grafiken und vielem mehr zusammen. Texte sehen dann nicht nur hübsch aus, sondern waren auch ausgesprochen einfach erstellt.
-Der Vortrag benötigt kein tiefergehendes Vorwissen und setzt auch nicht voraus, dass man Teil 1 im vorletzten Jahr besucht hat.</abstract>
-<description></description>
+<abstract>fli4l ist eine Linux-basierte ISDN-, DSL- und Ethernet-Router-Distribution, die in der Grundausstattung ab einer 586er CPU (mit MMX-Erweiterung) betrieben werden kann. </abstract>
+<description>Fli4l ist modular aufgebaut. Dadurch ist es möglich, verschiedene Funktionen individuell zusammenzustellen. In der Standarddistribution stehen beispielsweise Pakete zur Verfügung, mit denen es möglich ist, Netzwerke über das Internet verschlüsselt zu verbinden (VPN), potentielle Gefahren beim Surfen zu filtern (Proxy) oder fli4l in einer virtuellen Maschine laufen zu lassen (XEN). Außerdem kann fli4l problemlos mit eigenen Paketen erweitert werden. Die Erweiterungen können dann über eine zentrale Datenbank zur Verfügung gestellt werden.
+
+fli4l lässt sich problemlos auf Festplatten, Speicherkarten oder auf CD installieren. </description>
 <logo></logo>
 <persons>
-<person id='43'>Dieter Thalmayr</person>
+<person id='35'>Stefan Krister</person>
 </persons>
 <links>
+<link href='http://www.fli4l.de/'>Fli4l</link>
 </links>
 <attachments>
 </attachments>
@@ -442,31 +444,29 @@ Der Vortrag setzt keinerlei technisches oder mathematisches Vorwissen voraus.
 <attachments>
 </attachments>
 </event>
-<event guid='5f30c00c-7492-4217-ba6b-4a2839992e95' id='23'>
+<event guid='40b773f1-365e-40ee-87c0-f828739e3b9a' id='38'>
 <date>2017-04-22T16:15:00+02:00</date>
 <start>16:15</start>
 <duration>00:45</duration>
 <room>Raum B</room>
-<slug>lit2017-23-fli4l</slug>
+<slug>lit2017-38-schicke_briefe_und_andere_texte_teil_2</slug>
 <recording>
 <license></license>
 <optout>false</optout>
 </recording>
-<title>fli4l</title>
-<subtitle>Der flexible internet router for linux.</subtitle>
+<title>Schicke Briefe und andere Texte (Teil 2)</title>
+<subtitle></subtitle>
 <track>Linux‐Interna und Anwendungen</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>fli4l ist eine Linux-basierte ISDN-, DSL- und Ethernet-Router-Distribution, die in der Grundausstattung ab einer 586er CPU (mit MMX-Erweiterung) betrieben werden kann. </abstract>
-<description>Fli4l ist modular aufgebaut. Dadurch ist es möglich, verschiedene Funktionen individuell zusammenzustellen. In der Standarddistribution stehen beispielsweise Pakete zur Verfügung, mit denen es möglich ist, Netzwerke über das Internet verschlüsselt zu verbinden (VPN), potentielle Gefahren beim Surfen zu filtern (Proxy) oder fli4l in einer virtuellen Maschine laufen zu lassen (XEN). Außerdem kann fli4l problemlos mit eigenen Paketen erweitert werden. Die Erweiterungen können dann über eine zentrale Datenbank zur Verfügung gestellt werden.
-
-fli4l lässt sich problemlos auf Festplatten, Speicherkarten oder auf CD installieren. </description>
+<abstract>Stressfrei mit LibreOffice arbeiten – Teil 2: Wie man mit ein bisschen Planung viel Arbeit sparen kann. Nicht nur, dass im letzten Jahr vom Vortragsskript noch so viele interessante Punkte übrig geblieben sind. Kürzlich erschien auch noch ein kostenloses Buch über Gestaltungstipps mit LibreOffice. Daraus stellt Dieter Thalmayr ein Potpourri aus Arbeiten mit Formatvorlagen, Textbausteinen, Grafiken und vielem mehr zusammen. Texte sehen dann nicht nur hübsch aus, sondern waren auch ausgesprochen einfach erstellt.
+Der Vortrag benötigt kein tiefergehendes Vorwissen und setzt auch nicht voraus, dass man Teil 1 im vorletzten Jahr besucht hat.</abstract>
+<description></description>
 <logo></logo>
 <persons>
-<person id='35'>Stefan Krister</person>
+<person id='43'>Dieter Thalmayr</person>
 </persons>
 <links>
-<link href='http://www.fli4l.de/'>Fli4l</link>
 </links>
 <attachments>
 </attachments>
