@@ -35,6 +35,7 @@
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/027/original/2017-lit-augsburg-keynote.pdf?1492968900'>Slides</attachment>
 </attachments>
 </event>
 <event guid='afc64fe1-f2ed-455b-8c81-a642172025d5' id='9'>
@@ -103,6 +104,7 @@ fli4l lässt sich problemlos auf Festplatten, Speicherkarten oder auf CD install
 <link href='http://www.fli4l.de/'>Fli4l</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/023/original/fli4l-2017.pdf?1492951361'>fli4l-2017.pdf</attachment>
 </attachments>
 </event>
 <event guid='6ac10b18-e8a6-4f5f-8c02-241bf2f2da5e' id='12'>
@@ -173,15 +175,17 @@ fli4l lässt sich problemlos auf Festplatten, Speicherkarten oder auf CD install
 <track>Privatsphäre &amp; Sicherheit</track>
 <type>lecture</type>
 <language>de</language>
-<abstract>Computersicherheit ist wichtig: Wer lässt andere schon gerne in seine Daten schauen?! Computersicherheit ist aber auch schwierig: so wie einen Sack Flöhe hüten. Kaum hat man einen Floh unter Kontrolle, macht ein anderer Probleme. Man weiß nicht, wo man anfangen soll ... und tut am besten gar nichts!? Und genau das wäre falsch. In diesem Vortrag – der hoffentlich besonders einsteigerfreundlich ist – zeigen wir deshalb einige Methoden, mit denen Sie Ihre Sicherheit erhöhen können, indem wir erst einmal die dicksten und wichtigsten Flöhe an die Kette legen.
+<abstract>Computersicherheit ist wichtig: Wer lässt andere schon gerne in seine Daten schauen?! Computersicherheit ist aber auch schwierig: so wie einen Sack Flöhe hüten. Kaum hat man einen Floh unter Kontrolle, macht ein anderer Probleme. Man weiß nicht, wo man anfangen soll ... und tut am besten gar nichts!? Und genau das wäre falsch.
 
-Inhalt:
-Pfiffige Verschlüsselung von USB-Sticks und Festplatten verhindert, dass jemand, der unseren PC in die Finger bekommt, an unsere Daten kommt. 
-Außerdem erschweren wir Angriffe über den Browser, das gegenwärtige Haupt-Angriffsziel. 
-Dann sorgen wir dafür, dass wir (unserem demokratischen Recht entsprechend) unerkannt im Internet umher wandern können. 
-Und zum Schluss besuchen wir die Schmuddelecken des Internet (Nachrichtenportale und Ähnliches), ohne Sorgen vor Infektionen zu haben, indem wir vorher die Hardware umbauen!
+In diesem Vortrag – der hoffentlich besonders einsteigerfreundlich ist – zeigen wir deshalb einige Methoden, mit denen Sie Ihre Sicherheit erhöhen können, indem wir erst einmal die dicksten und wichtigsten Flöhe an die Kette legen.
 
-Die gezeigten Methoden sind übrigens nicht mit den bekannten kommerziellen Betriebssystemen zu machen. Was wieder einmal zeigt: Linux macht mehr Spaß!</abstract>
+&lt;strong&gt;Inhalt:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt; Verschlüsselung von USB-Sticks und Festplatten verhindert, dass jemand, der unseren PC in die Finger bekommt, an unsere Daten kommt. So macht man das mit openSUSE.&lt;/li&gt;
+ 	&lt;li&gt;Wir erschweren Angriffe über den Browser, das gegenwärtige Haupt-Angriffsziel.&lt;/li&gt;
+ 	&lt;li&gt;Wir sorgen dafür, dass wir (unserem Recht entsprechend) unerkannt im Internet umher wandern können.&lt;/li&gt;
+ 	&lt;li&gt;Wir besuchen die Schmuddelecken des Internet (Nachrichtenportale und Ähnliches), ohne Sorgen vor Infektionen zu haben, indem wir vorher die Hardware umbauen! Mit oder ohne Lötkolben!&lt;/li&gt;
+&lt;/ul&gt;</abstract>
 <description></description>
 <logo></logo>
 <persons>
@@ -190,6 +194,7 @@ Die gezeigten Methoden sind übrigens nicht mit den bekannten kommerziellen Betr
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/008/original/LIT_2017_You-shall-not-pass_v2.pdf?1492875346'>LIT_2017_You-shall-not-pass_v2.pdf</attachment>
 </attachments>
 </event>
 <event guid='2d61e12d-ba5b-40c4-985e-d960ccce1466' id='6'>
@@ -220,6 +225,7 @@ Wer glaubt, die Simpsons seien nur eine Zeichentrickserie für Kinder und Jugend
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/016/original/simpsons.pdf?1492945439'>Vortrag</attachment>
 </attachments>
 </event>
 </room>
@@ -265,6 +271,10 @@ Falls du auch einen halten möchtest, trag deinen Talk im &lt;a href=&quot;https
 <link href='https://www.luga.de/Aktionen/LIT-2017/Staende/#bierbrauen'>Bierbrauen</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/015/original/Freifunk_Augsburg_Lightning_Talk.pdf?1492944944'>Freifunk_Augsburg_Lightning_Talk.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/024/original/luga_wikimuc.odp?1492951558'>luga_wikimuc.odp</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/029/original/2017-lit-augsburg-pEp.pdf?1492970541'>2017-lit-augsburg-pEp.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/030/original/2017-lit-augsburg-taler.pdf?1492970541'>2017-lit-augsburg-taler.pdf</attachment>
 </attachments>
 </event>
 <event guid='5a6c7c8d-71ad-4bb3-a7ce-d23f05c24039' id='33'>
@@ -294,8 +304,10 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <person id='42'>Gert-Ludwig Ingold</person>
 </persons>
 <links>
+<link href='https://github.com/gertingold/lit2017'>Alle Materialien zum Vortrag inklusive Jupyter-Notebook</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/018/original/lit2017-ingold.pdf?1492945707'>Nicht-interaktive Fassung der Vortragsfolien als PDF</attachment>
 </attachments>
 </event>
 <event guid='43d59eb8-6e0d-4e19-b12f-1b7d692a79e6' id='31'>
@@ -352,6 +364,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <link href='https://krita.org/en/'>Die offizielle Krita Website</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/013/original/krita.pdf?1492944796'>krita.pdf</attachment>
 </attachments>
 </event>
 <event guid='3c884566-1ac1-46be-b43b-c6c864f47cbd' id='8'>
@@ -390,6 +403,7 @@ Insbesondere die Generationen Y und Z neigen inzwischen dazu wesentliche Grundla
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/025/original/Digital_Naiv_Gerhard_Krug_Druckversion.pdf?1492956070'>Digital_Naiv_Gerhard_Krug_Druckversion.pdf</attachment>
 </attachments>
 </event>
 <event guid='8dc17e70-fd5c-4a5c-8547-21b0b0e79a2b' id='39'>
@@ -440,8 +454,11 @@ Der Vortrag setzt keinerlei technisches oder mathematisches Vorwissen voraus.
 <person id='5'>Ingo Blechschmidt</person>
 </persons>
 <links>
+<link href='https://github.com/iblech/mathematik-der-vorhersagen'>Unterlagen zu einer Schülerakademie zu neuronalen Netzen (mit Beispielprogrammen und Videos)</link>
+<link href='https://etherpad.wikimedia.org/p/lit2017-ki-vortrag'>Weitere Referenzen zu KI</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/026/original/slides.pdf?1492962102'>slides.pdf</attachment>
 </attachments>
 </event>
 <event guid='40b773f1-365e-40ee-87c0-f828739e3b9a' id='38'>
@@ -493,7 +510,9 @@ Der Vortrag benötigt kein tiefergehendes Vorwissen und setzt auch nicht voraus,
 
 Allerdings sind auch viele Konzepte und Ideen von C noch aus grauer Vorzeit und mitunter macht es die Sprache dem Programmierer nicht leicht. Buffer overflows oder Double-Free Fehler sind verbreitete auch im 21. Jahrhundert verbreitete Sicherheitslücken. Und dann gibt es natürlich auch noch undefiniertes Verhalten...
 
-Dieser Vortrag gibt einen Überblick über die unschönen Seiten von C, zeigt wie typische Sicherheitslücken entstehen und ausgenutzt werden, und was undefiniertes Verhalten bedeutet.</description>
+Dieser Vortrag gibt einen Überblick über die unschönen Seiten von C, zeigt wie typische Sicherheitslücken entstehen und ausgenutzt werden, und was undefiniertes Verhalten bedeutet.
+
+Der Vortrag liegt auf &lt;a href=&quot;https://github.com/michael-hartmann/darkc&quot;&gt;github&lt;/a&gt;.</description>
 <logo></logo>
 <persons>
 <person id='41'>Michael Hartmann</person>
@@ -501,6 +520,7 @@ Dieser Vortrag gibt einen Überblick über die unschönen Seiten von C, zeigt wi
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/006/original/talk.pdf?1492863154'>Vortragsfolien</attachment>
 </attachments>
 </event>
 <event guid='e5bec55c-63ac-432d-aaa6-2bf600c2f953' id='25'>
@@ -537,6 +557,7 @@ Thema des Talks:
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/022/original/makandra_-_Monitoring_von_Linux_Server_Infrastukturen.pdf?1492951353'>makandra_-_Monitoring_von_Linux_Server_Infrastukturen.pdf</attachment>
 </attachments>
 </event>
 <event guid='23fc404d-5939-4ec1-aa07-662431a04180' id='5'>
@@ -564,6 +585,7 @@ Thema des Talks:
 <link href='mailto:mflingelli@blackned.de'>Kontakt</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/017/original/sw_entwicklung_linux.pdf?1492945473'>Vortrag</attachment>
 </attachments>
 </event>
 <event guid='fb5bd61a-46c9-48cb-8269-eae75d7dab32' id='10'>
@@ -593,6 +615,7 @@ Thema des Talks:
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/019/original/Capabilities.pdf?1492948276'>Folien</attachment>
 </attachments>
 </event>
 <event guid='9ac33360-4094-46f1-ae00-438474b365af' id='40'>
@@ -657,6 +680,7 @@ Wir gehen kurz auf die ReCoBS-Historie ein und blicken auf 7 Jahre Praxiserfahru
 <link href='https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Internetsicherheit/recobslanginfo_pdf.html'>ReCoBS-Konzept des BSI</link>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/021/original/X2Go-LITA_2017.pdf?1492951313'>X2Go-LITA_2017.pdf</attachment>
 </attachments>
 </event>
 </room>
@@ -693,6 +717,7 @@ Wir gehen kurz auf die ReCoBS-Historie ein und blicken auf 7 Jahre Praxiserfahru
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/012/original/bitcoin-blockchain-introduction.zip?1492940851'>Bitcoin Blockchain Introduction Presentation</attachment>
 </attachments>
 </event>
 <event guid='5df6fd5e-d954-461d-ac53-f441f828f9ce' id='4'>
@@ -836,6 +861,7 @@ Die anwesenden Helfer decken ein großes Themenspektrum ab – ihr könnt uns al
 <links>
 </links>
 <attachments>
+<attachment href='/system/event_attachments/attachments/000/000/020/original/cryptoparty-intro.pdf?1492951297'>cryptoparty-intro.pdf</attachment>
 </attachments>
 </event>
 </room>
@@ -995,16 +1021,16 @@ Wenn du mindestens in die vierte Klasse gehst, bist du herzlich zu diesem Worksh
 <optout>false</optout>
 </recording>
 <title>Datenbasierte Entscheidungsfindung mit Python</title>
-<subtitle></subtitle>
+<subtitle>(Entfällt)</subtitle>
 <track>Programmieren &amp; Software entwickeln</track>
 <type>workshop</type>
 <language></language>
-<abstract>Wer aufgrund von Daten eine Entscheidung fällen muss, greift oft zu Tabellenkalkulationsprogrammen, um vergleichende Berechnungen durchzuführen oder die Daten graphisch aufzubereiten. Das ist bequem, aber oft ist es später sowohl für andere als auch sich selbst nur noch schwer nachzuvollziehen, welche Kriterien in die Entscheidung eingeflossen sind. Daher möchte ich eine Alternative zur Tabellenkalkulation vorstellen: Python mit Jupyter Notebook, Numpy und Matplotlib. In dieser Kombination lassen sich Dokumente schreiben, die Dokumentation zur Entscheidungsfindung, Skripte zur Datenanalyse und graphische Aufbereitung vereinen.
+<abstract>(Entfällt)</abstract>
+<description>Wer aufgrund von Daten eine Entscheidung fällen muss, greift oft zu Tabellenkalkulationsprogrammen, um vergleichende Berechnungen durchzuführen oder die Daten graphisch aufzubereiten. Das ist bequem, aber oft ist es später sowohl für andere als auch sich selbst nur noch schwer nachzuvollziehen, welche Kriterien in die Entscheidung eingeflossen sind. Daher möchte ich eine Alternative zur Tabellenkalkulation vorstellen: Python mit Jupyter Notebook, Numpy und Matplotlib. In dieser Kombination lassen sich Dokumente schreiben, die Dokumentation zur Entscheidungsfindung, Skripte zur Datenanalyse und graphische Aufbereitung vereinen.
 
 In meinem Workshop werde ich zunächst einige Ideen zu strukturiertem Arbeiten und einige mathematische Grundlagen vorstellen. Danach gebe ich eine Einführung in Python, Jupyter, Numpy und Matplotlib. Im Anschluss können die Teilnehmer selbstständig ein Problem in Angriff nehmen, wobei ich natürlich mit helfender Hand zur Seite stehe. Dazu werde ich einige Beispielprobleme vorbereiten, wer aber selbst eine Idee hat, darf diese gerne vorbringen.
 
-Vorherige Programmierkenntnisse sind nicht notwendig, du solltest aber genug mit der Kommandozeile umgehen können, um die benötigten Python-Pakete zu installieren. Welche genau das sind und weitere Informationen findest du spätestens eine Woche im vorraus unter https://cruzr.github.io/numpy-workshop/.</abstract>
-<description></description>
+Vorherige Programmierkenntnisse sind nicht notwendig, du solltest aber genug mit der Kommandozeile umgehen können, um die benötigten Python-Pakete zu installieren. Welche genau das sind und weitere Informationen findest du spätestens eine Woche im vorraus unter https://cruzr.github.io/numpy-workshop/.</description>
 <logo></logo>
 <persons>
 <person id='27'>Thomas Glamsch</person>
@@ -1042,6 +1068,9 @@ Kinder ab einschließlich der vierten Klasse, Jugendliche und Erwachsene können
 <person id='46'>Matheschülerzirkel Augsburg</person>
 </persons>
 <links>
+<link href='http://rawgit.com/iblech/mathezirkel-kurs/master/mathecamp-2016/cosmic-call/message.pdf'>Die Cosmic-Call-Botschaft</link>
+<link href='https://www.math.uni-augsburg.de/schueler/mathezirkel/materialien/beweise-ohne-worte-klein.pdf'>Beweise ohne Worte</link>
+<link href='https://www.math.uni-augsburg.de/schueler/mathezirkel/veranstaltungen/'>Mathezirkel an der Uni und Mathecamp in den Ferien</link>
 </links>
 <attachments>
 </attachments>

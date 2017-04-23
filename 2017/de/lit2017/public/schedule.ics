@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T113000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T104500
-DTSTAMP;VALUE=DATE-TIME:20170305T215850Z
+DTSTAMP;VALUE=DATE-TIME:20170422T121347Z
 UID:cd9da7c2-106b-4d14-ba0b-9705ab067330@frab.nixos.community
 DESCRIPTION:Stolpersteine\, Sicherheitslücken und undefiniertes Verhalten
   in C.
@@ -107,28 +107,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T171500
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T151500
-DTSTAMP;VALUE=DATE-TIME:20170412T084624Z
+DTSTAMP;VALUE=DATE-TIME:20170422T064642Z
 UID:96b86696-8ebe-46bf-ba57-03bf8364461e@frab.nixos.community
-DESCRIPTION:Wer aufgrund von Daten eine Entscheidung fällen muss\, greift
-  oft zu Tabellenkalkulationsprogrammen\, um vergleichende Berechnungen d
- urchzuführen oder die Daten graphisch aufzubereiten. Das ist bequem\, ab
- er oft ist es später sowohl für andere als auch sich selbst nur noch sch
- wer nachzuvollziehen\, welche Kriterien in die Entscheidung eingeflossen
-  sind. Daher möchte ich eine Alternative zur Tabellenkalkulation vorstel
- len: Python mit Jupyter Notebook\, Numpy und Matplotlib. In dieser Kombi
- nation lassen sich Dokumente schreiben\, die Dokumentation zur Entscheid
- ungsfindung\, Skripte zur Datenanalyse und graphische Aufbereitung verei
- nen.\n\nIn meinem Workshop werde ich zunächst einige Ideen zu strukturie
- rtem Arbeiten und einige mathematische Grundlagen vorstellen. Danach geb
- e ich eine Einführung in Python\, Jupyter\, Numpy und Matplotlib. Im Ans
- chluss können die Teilnehmer selbstständig ein Problem in Angriff nehmen
- \, wobei ich natürlich mit helfender Hand zur Seite stehe. Dazu werde ic
- h einige Beispielprobleme vorbereiten\, wer aber selbst eine Idee hat\, 
- darf diese gerne vorbringen.\n\nVorherige Programmierkenntnisse sind nic
- ht notwendig\, du solltest aber genug mit der Kommandozeile umgehen könn
- en\, um die benötigten Python-Pakete zu installieren. Welche genau das s
- ind und weitere Informationen findest du spätestens eine Woche im vorrau
- s unter https://cruzr.github.io/numpy-workshop/.
+DESCRIPTION:(Entfällt)
 URL:/schedule.html/events/32.html
 SUMMARY:Datenbasierte Entscheidungsfindung mit Python - Thomas Glamsch
 LOCATION:Raum F (Workshop)
@@ -464,26 +445,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T160000
 DTSTART;TZID=Europe/Berlin;VALUE=DATE-TIME:20170422T151500
-DTSTAMP;VALUE=DATE-TIME:20170307T181205Z
+DTSTAMP;VALUE=DATE-TIME:20170421T170236Z
 UID:50669bcd-cea3-49ab-a25d-653ff87ea4b0@frab.nixos.community
 DESCRIPTION:Computersicherheit ist wichtig: Wer lässt andere schon gerne 
  in seine Daten schauen?! Computersicherheit ist aber auch schwierig: so 
  wie einen Sack Flöhe hüten. Kaum hat man einen Floh unter Kontrolle\, ma
  cht ein anderer Probleme. Man weiß nicht\, wo man anfangen soll ... und 
- tut am besten gar nichts!? Und genau das wäre falsch. In diesem Vortrag 
- – der hoffentlich besonders einsteigerfreundlich ist – zeigen wir deshal
- b einige Methoden\, mit denen Sie Ihre Sicherheit erhöhen können\, indem
-  wir erst einmal die dicksten und wichtigsten Flöhe an die Kette legen.\
- n\nInhalt:\nPfiffige Verschlüsselung von USB-Sticks und Festplatten verh
- indert\, dass jemand\, der unseren PC in die Finger bekommt\, an unsere 
- Daten kommt. \nAußerdem erschweren wir Angriffe über den Browser\, das g
- egenwärtige Haupt-Angriffsziel. \nDann sorgen wir dafür\, dass wir (unse
- rem demokratischen Recht entsprechend) unerkannt im Internet umher wande
- rn können. \nUnd zum Schluss besuchen wir die Schmuddelecken des Interne
- t (Nachrichtenportale und Ähnliches)\, ohne Sorgen vor Infektionen zu ha
- ben\, indem wir vorher die Hardware umbauen!\n\nDie gezeigten Methoden s
- ind übrigens nicht mit den bekannten kommerziellen Betriebssystemen zu m
- achen. Was wieder einmal zeigt: Linux macht mehr Spaß!
+ tut am besten gar nichts!? Und genau das wäre falsch.\n\nIn diesem Vortr
+ ag – der hoffentlich besonders einsteigerfreundlich ist – zeigen wir des
+ halb einige Methoden\, mit denen Sie Ihre Sicherheit erhöhen können\, in
+ dem wir erst einmal die dicksten und wichtigsten Flöhe an die Kette lege
+ n.\n\n<strong>Inhalt:</strong>\n<ul>\n 	<li> Verschlüsselung von USB-Sti
+ cks und Festplatten verhindert\, dass jemand\, der unseren PC in die Fin
+ ger bekommt\, an unsere Daten kommt. So macht man das mit openSUSE.</li>
+ \n 	<li>Wir erschweren Angriffe über den Browser\, das gegenwärtige Haup
+ t-Angriffsziel.</li>\n 	<li>Wir sorgen dafür\, dass wir (unserem Recht e
+ ntsprechend) unerkannt im Internet umher wandern können.</li>\n 	<li>Wir
+  besuchen die Schmuddelecken des Internet (Nachrichtenportale und Ähnlic
+ hes)\, ohne Sorgen vor Infektionen zu haben\, indem wir vorher die Hardw
+ are umbauen! Mit oder ohne Lötkolben!</li>\n</ul>
 URL:/schedule.html/events/13.html
 SUMMARY:You shall not pass! - Uwe Kremmin
 LOCATION:Raum A
