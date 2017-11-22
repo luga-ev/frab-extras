@@ -35,7 +35,7 @@
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/027/original/2017-lit-augsburg-keynote.pdf?1492968900'>Slides</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/027/original/2017-lit-augsburg-keynote.pdf'>Slides</attachment>
 </attachments>
 </event>
 <event guid='afc64fe1-f2ed-455b-8c81-a642172025d5' id='9'>
@@ -75,7 +75,7 @@
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/036/original/vortrag.odp?1493056745'>Vortragsfolien (LibreOffice Impress)</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/036/original/vortrag.odp'>Vortragsfolien (LibreOffice Impress)</attachment>
 </attachments>
 </event>
 <event guid='5f30c00c-7492-4217-ba6b-4a2839992e95' id='23'>
@@ -105,7 +105,7 @@ fli4l lässt sich problemlos auf Festplatten, Speicherkarten oder auf CD install
 <link href='http://www.fli4l.de/'>Fli4l</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/023/original/fli4l-2017.pdf?1492951361'>fli4l-2017.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/023/original/fli4l-2017.pdf'>fli4l-2017.pdf</attachment>
 </attachments>
 </event>
 <event guid='6ac10b18-e8a6-4f5f-8c02-241bf2f2da5e' id='12'>
@@ -195,7 +195,7 @@ In diesem Vortrag – der hoffentlich besonders einsteigerfreundlich ist – zei
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/008/original/LIT_2017_You-shall-not-pass_v2.pdf?1492875346'>LIT_2017_You-shall-not-pass_v2.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/008/original/LIT_2017_You-shall-not-pass_v2.pdf'>LIT_2017_You-shall-not-pass_v2.pdf</attachment>
 </attachments>
 </event>
 <event guid='2d61e12d-ba5b-40c4-985e-d960ccce1466' id='6'>
@@ -226,7 +226,7 @@ Wer glaubt, die Simpsons seien nur eine Zeichentrickserie für Kinder und Jugend
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/016/original/simpsons.pdf?1492945439'>Vortrag</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/016/original/simpsons.pdf'>Vortrag</attachment>
 </attachments>
 </event>
 </room>
@@ -272,10 +272,10 @@ Falls du auch einen halten möchtest, trag deinen Talk im &lt;a href=&quot;https
 <link href='https://www.luga.de/Aktionen/LIT-2017/Staende/#bierbrauen'>Bierbrauen</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/015/original/Freifunk_Augsburg_Lightning_Talk.pdf?1492944944'>Freifunk_Augsburg_Lightning_Talk.pdf</attachment>
-<attachment href='/system/event_attachments/attachments/000/000/024/original/luga_wikimuc.odp?1492951558'>luga_wikimuc.odp</attachment>
-<attachment href='/system/event_attachments/attachments/000/000/029/original/2017-lit-augsburg-pEp.pdf?1492970541'>2017-lit-augsburg-pEp.pdf</attachment>
-<attachment href='/system/event_attachments/attachments/000/000/030/original/2017-lit-augsburg-taler.pdf?1492970541'>2017-lit-augsburg-taler.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/015/original/Freifunk_Augsburg_Lightning_Talk.pdf'>Freifunk_Augsburg_Lightning_Talk.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/024/original/luga_wikimuc.odp'>luga_wikimuc.odp</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/029/original/2017-lit-augsburg-pEp.pdf'>2017-lit-augsburg-pEp.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/030/original/2017-lit-augsburg-taler.pdf'>2017-lit-augsburg-taler.pdf</attachment>
 </attachments>
 </event>
 <event guid='5a6c7c8d-71ad-4bb3-a7ce-d23f05c24039' id='33'>
@@ -308,7 +308,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <link href='https://github.com/gertingold/lit2017'>Alle Materialien zum Vortrag inklusive Jupyter-Notebook</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/018/original/lit2017-ingold.pdf?1492945707'>Nicht-interaktive Fassung der Vortragsfolien als PDF</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/018/original/lit2017-ingold.pdf'>Nicht-interaktive Fassung der Vortragsfolien als PDF</attachment>
 </attachments>
 </event>
 <event guid='43d59eb8-6e0d-4e19-b12f-1b7d692a79e6' id='31'>
@@ -335,7 +335,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/035/original/LIT2017_Tor.pdf?1493053427'>Tor-Vortragsfolien</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/035/original/LIT2017_Tor.pdf'>Tor-Vortragsfolien</attachment>
 </attachments>
 </event>
 <event guid='77abf3e0-81ef-4c96-b371-7f0ea11155f8' id='24'>
@@ -366,7 +366,7 @@ Reihe interessanter Algorithmen für die Bildverarbeitung zur Verfügung stellt.
 <link href='https://krita.org/en/'>Die offizielle Krita Website</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/013/original/krita.pdf?1492944796'>krita.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/013/original/krita.pdf'>krita.pdf</attachment>
 </attachments>
 </event>
 <event guid='3c884566-1ac1-46be-b43b-c6c864f47cbd' id='8'>
@@ -405,7 +405,7 @@ Insbesondere die Generationen Y und Z neigen inzwischen dazu wesentliche Grundla
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/025/original/Digital_Naiv_Gerhard_Krug_Druckversion.pdf?1492956070'>Digital_Naiv_Gerhard_Krug_Druckversion.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/025/original/Digital_Naiv_Gerhard_Krug_Druckversion.pdf'>Digital_Naiv_Gerhard_Krug_Druckversion.pdf</attachment>
 </attachments>
 </event>
 <event guid='8dc17e70-fd5c-4a5c-8547-21b0b0e79a2b' id='39'>
@@ -460,7 +460,7 @@ Der Vortrag setzt keinerlei technisches oder mathematisches Vorwissen voraus.
 <link href='https://etherpad.wikimedia.org/p/lit2017-ki-vortrag'>Weitere Referenzen zu KI</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/026/original/slides.pdf?1492962102'>slides.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/026/original/slides.pdf'>slides.pdf</attachment>
 </attachments>
 </event>
 <event guid='40b773f1-365e-40ee-87c0-f828739e3b9a' id='38'>
@@ -522,7 +522,7 @@ Der Vortrag liegt auf &lt;a href=&quot;https://github.com/michael-hartmann/darkc
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/006/original/talk.pdf?1492863154'>Vortragsfolien</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/006/original/talk.pdf'>Vortragsfolien</attachment>
 </attachments>
 </event>
 <event guid='e5bec55c-63ac-432d-aaa6-2bf600c2f953' id='25'>
@@ -559,7 +559,7 @@ Thema des Talks:
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/022/original/makandra_-_Monitoring_von_Linux_Server_Infrastukturen.pdf?1492951353'>makandra_-_Monitoring_von_Linux_Server_Infrastukturen.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/022/original/makandra_-_Monitoring_von_Linux_Server_Infrastukturen.pdf'>makandra_-_Monitoring_von_Linux_Server_Infrastukturen.pdf</attachment>
 </attachments>
 </event>
 <event guid='23fc404d-5939-4ec1-aa07-662431a04180' id='5'>
@@ -587,7 +587,7 @@ Thema des Talks:
 <link href='mailto:mflingelli@blackned.de'>Kontakt</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/017/original/sw_entwicklung_linux.pdf?1492945473'>Vortrag</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/017/original/sw_entwicklung_linux.pdf'>Vortrag</attachment>
 </attachments>
 </event>
 <event guid='fb5bd61a-46c9-48cb-8269-eae75d7dab32' id='10'>
@@ -617,7 +617,7 @@ Thema des Talks:
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/019/original/Capabilities.pdf?1492948276'>Folien</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/019/original/Capabilities.pdf'>Folien</attachment>
 </attachments>
 </event>
 <event guid='9ac33360-4094-46f1-ae00-438474b365af' id='40'>
@@ -682,7 +682,7 @@ Wir gehen kurz auf die ReCoBS-Historie ein und blicken auf 7 Jahre Praxiserfahru
 <link href='https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Internetsicherheit/recobslanginfo_pdf.html'>ReCoBS-Konzept des BSI</link>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/021/original/X2Go-LITA_2017.pdf?1492951313'>X2Go-LITA_2017.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/021/original/X2Go-LITA_2017.pdf'>X2Go-LITA_2017.pdf</attachment>
 </attachments>
 </event>
 </room>
@@ -719,7 +719,7 @@ Wir gehen kurz auf die ReCoBS-Historie ein und blicken auf 7 Jahre Praxiserfahru
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/012/original/bitcoin-blockchain-introduction.zip?1492940851'>Bitcoin Blockchain Introduction Presentation</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/012/original/bitcoin-blockchain-introduction.zip'>Bitcoin Blockchain Introduction Presentation</attachment>
 </attachments>
 </event>
 <event guid='5df6fd5e-d954-461d-ac53-f441f828f9ce' id='4'>
@@ -796,7 +796,7 @@ Dieser Workshop fängt von vorne an und vermittelt die wichtigsten Kommandos, di
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/031/original/vim-beginners-luck-presentation.pdf?1493015768'>Vortragsfolien</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/031/original/vim-beginners-luck-presentation.pdf'>Vortragsfolien</attachment>
 </attachments>
 </event>
 <event guid='d3ff7d90-9591-41c8-a793-10785996ca8b' id='43'>
@@ -864,7 +864,7 @@ Die anwesenden Helfer decken ein großes Themenspektrum ab – ihr könnt uns al
 <links>
 </links>
 <attachments>
-<attachment href='/system/event_attachments/attachments/000/000/020/original/cryptoparty-intro.pdf?1492951297'>cryptoparty-intro.pdf</attachment>
+<attachment href='/system/event_attachments/attachments/000/000/020/original/cryptoparty-intro.pdf'>cryptoparty-intro.pdf</attachment>
 </attachments>
 </event>
 </room>
